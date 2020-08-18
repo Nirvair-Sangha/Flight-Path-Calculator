@@ -1,0 +1,128 @@
+
+Flight Path 1: 
+Dallas -> Houston; 
+Total Cost: $80. 
+
+Flight Path 1: 
+Dallas -> Houston; 
+Total Time: 40 minutes. 
+
+Flight Path 1: 
+Los-Angeles -> Boston; 
+Total Cost: $1000. 
+
+Flight Path 2: 
+Los-Angeles -> Austin -> Dallas -> Boston; 
+Total Cost: $1175. 
+
+Flight Path 3: 
+Los-Angeles -> Dallas -> Boston; 
+Total Cost: $1200. 
+
+Flight Path 1: 
+Los-Angeles -> Boston; 
+Total Time: 200 minutes. 
+
+Flight Path 2: 
+Los-Angeles -> Dallas -> Boston; 
+Total Time: 230 minutes. 
+
+Flight Path 3: 
+Los-Angeles -> Austin -> Dallas -> Boston; 
+Total Time: 267 minutes. 
+
+Flight Path 1: 
+Miami -> Boston; 
+Total Cost: $400. 
+
+Flight Path 2: 
+Miami -> Atlanta -> Boston; 
+Total Cost: $480. 
+
+Flight Path 3: 
+Miami -> Atlanta -> Dallas -> Boston; 
+Total Cost: $930. 
+
+Flight Path 1: 
+Miami -> Boston; 
+Total Time: 120 minutes. 
+
+Flight Path 2: 
+Miami -> Atlanta -> Boston; 
+Total Time: 170 minutes. 
+
+Flight Path 3: 
+Miami -> Atlanta -> Dallas -> Boston; 
+Total Time: 260 minutes. 
+
+Flight Path 1: 
+Dallas -> Chicago; 
+Total Cost: $250. 
+
+Flight Path 2: 
+Dallas -> Austin -> Chicago; 
+Total Cost: $275. 
+
+Flight Path 3: 
+Dallas -> Atlanta -> Miami -> Chicago; 
+Total Cost: $680. 
+
+Flight Path 1: 
+Dallas -> Chicago; 
+Total Time: 90 minutes. 
+
+Flight Path 2: 
+Dallas -> Austin -> Chicago; 
+Total Time: 125 minutes. 
+
+Flight Path 3: 
+Dallas -> Los-Angeles -> Chicago; 
+Total Time: 200 minutes. 
+
+Flight Path 1: 
+Chicago -> Dallas -> Houston; 
+Total Cost: $330. 
+
+Flight Path 2: 
+Chicago -> Austin -> Dallas -> Houston; 
+Total Cost: $355. 
+
+Flight Path 3: 
+Chicago -> Miami -> Atlanta -> Dallas -> Houston; 
+Total Cost: $760. 
+
+Flight Path 1: 
+Chicago -> Dallas -> Houston; 
+Total Time: 130 minutes. 
+
+Flight Path 2: 
+Chicago -> Austin -> Dallas -> Houston; 
+Total Time: 165 minutes. 
+
+Flight Path 3: 
+Chicago -> Los-Angeles -> Dallas -> Houston; 
+Total Time: 240 minutes. 
+
+Flight Path 1: 
+Dallas -> Austin -> Los-Angeles; 
+Total Cost: $575. 
+
+Flight Path 2: 
+Dallas -> Los-Angeles; 
+Total Cost: $600. 
+
+Flight Path 3: 
+Dallas -> Chicago -> Los-Angeles; 
+Total Cost: $820. 
+
+Flight Path 1: 
+Dallas -> Los-Angeles; 
+Total Time: 110 minutes. 
+
+Flight Path 2: 
+Dallas -> Austin -> Los-Angeles; 
+Total Time: 147 minutes. 
+
+Flight Path 3: 
+Dallas -> Chicago -> Los-Angeles; 
+Total Time: 180 minutes. 
